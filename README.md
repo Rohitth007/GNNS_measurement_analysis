@@ -1,8 +1,8 @@
 # GNSS_measurement_analysis
 This is a project done as a part of an IoT course, which analyses data collected from
-Google’s GNSSLogger Android App in various environments (indoor, outdoor, partial sky, etc)
+**Google’s GNSSLogger** Android App in various environments (indoor, outdoor, partial sky, etc)
 
-Various parameters; like Distance Errors, Average SNR, No. of Satellites, Average Elevation, Average Azimuth,
+Various parameters; like **Distance Errors**, **Average SNR**, **No. of Satellites**, **Average Elevation**, **Average Azimuth**,
 are then checked against each other for any correlation.
 
 <img src='https://user-images.githubusercontent.com/64144419/126344348-a808b061-0bf8-48e4-b31d-e5da4af0a227.png' width=240> <img src='https://user-images.githubusercontent.com/64144419/126344490-97d14fc4-029a-425a-8d18-89f372aedd87.png' width=300>
